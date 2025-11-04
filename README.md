@@ -26,9 +26,8 @@
 
 ## 🛠️ Setup Instructions
 
-### 1️⃣ Clone the repository
-
 ```bash
+### 1️⃣ Clone the repository
 git clone https://github.com/mehmetburakbaykal/drum-seperator.git
 cd drum-seperator
 
@@ -61,10 +60,12 @@ Go to 👉 http://127.0.0.1:5000
 
 ## 📁 Output Example
 
+```
 ~/Desktop/DrumExports/
 ├── song1_no_drums.mp3
 ├── test_no_drums.mp3
 ├── live_video_no_drums.mp3
+```
 
 ---
 
