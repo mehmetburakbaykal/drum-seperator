@@ -26,23 +26,36 @@
 
 ## 🛠️ Setup Instructions
 
-```bash
 1️⃣ Clone the repository
-    git clone https://github.com/mehmetburakbaykal/drum-seperator.git
-    cd drum-seperator
+
+```
+git clone https://github.com/mehmetburakbaykal/drum-seperator.git
+cd drum-seperator
+```
 
 2️⃣ Create and activate a virtual environment
-    python3 -m venv venv
-    source venv/bin/activate
+
+```
+python3 -m venv venv
+source venv/bin/activate
+```
 
 3️⃣ Install dependencies
-    pip install demucs flask ffmpeg-python
+
+```
+pip install demucs flask ffmpeg-python
+```
 
 4️⃣ Run the app
-    python drums_web_v2.py
+
+```
+python drums_web_v2.py
+```
 
 5️⃣ Open your browser
-    Go to 👉 http://127.0.0.1:5000
+
+```
+Go to 👉 http://127.0.0.1:5000
 ```
 
 ---
