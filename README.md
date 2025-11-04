@@ -55,7 +55,7 @@ python drums_web_v2.py
 5️⃣ Open your browser
 
 ```
-Go to 👉 http://127.0.0.1:5000
+Go to 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ```
 
 ---
